@@ -27,4 +27,4 @@ Download the selected file, and unzip the contents wherever you'd like. Then, dr
 <a href=""><img width="300" src="https://i.imgur.com/OyiYtYK.png" alt="conflict"></a>
 
 ## **Opening Issues**
-To request a bugfix or change within a file, please [open an issue](https://github.com/aemx/mod-releases/issues/new). I'll do my best to fix them whenever possible! There is an appropriate tag for each pack, so please use them appropriately along with the other tags! You are also welcome to message me on [Discord]() at **CERiNG#0282** to discuss the issues with me in further detail, or if you have any questions regarding this repository.
+To request a bugfix or change within a file, please [open an issue](https://github.com/aemx/mod-releases/issues/new). I'll do my best to fix them whenever possible! There is an appropriate tag for each pack, so please use them appropriately along with the other tags! You are also welcome to message me on [Discord](https://discord.com/) at **CERiNG#0282** to discuss the issues with me in further detail, or if you have any questions regarding this repository.
