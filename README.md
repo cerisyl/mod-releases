@@ -15,15 +15,16 @@ Download the selected file, and unzip the contents wherever you'd like. Then, dr
 ## **File Directory**
 Click a banner to quickly download any of the packs or files listed below!
 ### **Packs**
-<a href="https://github.com/aemx/mod-releases/raw/main/packs/Aster's%20Astral%20Adventure.zip"><img width="406" src="https://i.imgur.com/JZNe2bc.png" alt="Aster's Astral Adventure"></a>
-<a href="https://github.com/aemx/mod-releases/raw/main/packs/CERiNG.zip"><img width="406" src="https://i.imgur.com/wlBCgZ8.png" alt="CERiNG"></a>
+<a href="https://github.com/aemx/mod-releases/raw/main/packs/Aster's%20Astral%20Adventure.zip"><img width="406" src="https://raw.githubusercontent.com/aemx/cering.dev/refs/heads/main/src/img/itg/aaa.png" alt="Aster's Astral Adventure"></a>
+<a href="https://github.com/aemx/mod-releases/raw/main/packs/CERiNG.zip"><img width="406" src="https://raw.githubusercontent.com/aemx/cering.dev/refs/heads/main/src/img/itg/cering.png" alt="CERiNG"></a>
 
-<a href="https://github.com/aemx/mod-releases/raw/main/packs/Misfits%20in%20the%20Prairie.zip"><img width="406" src="https://i.imgur.com/9VVljLj.png" alt="Misfits in the Prairie"></a>
-<a href="https://github.com/aemx/mod-releases/raw/main/packs/NJSRT1.zip"><img width="406" src="https://i.imgur.com/VT8JlJ6.png" alt="NJSRT1: Ghost in the Machine"></a>
+<a href="https://github.com/aemx/mod-releases/raw/main/packs/Misfits%20in%20the%20Prairie.zip"><img width="406" src="https://raw.githubusercontent.com/aemx/cering.dev/refs/heads/main/src/img/itg/misfits.png" alt="Misfits in the Prairie"></a>
+<a href="https://github.com/aemx/mod-releases/raw/main/packs/NJSRT1.zip"><img width="406" src="https://raw.githubusercontent.com/aemx/cering.dev/refs/heads/main/src/img/itg/njsrt.png" alt="NJSRT1: Ghost in the Machine"></a>
 
 ### **Standalone Files**
 *NOTE: All files found in this list can be found in the CERiNG pack.*
 
+<a href="https://github.com/aemx/mod-releases/raw/main/standalone/deadheat.zip"><img width="270" src="https://i.imgur.com/MWS0QT2.png" alt="Dead Heat"></a>
 <a href="https://github.com/aemx/mod-releases/raw/main/standalone/conflict.zip"><img width="270" src="https://i.imgur.com/OyiYtYK.png" alt="conflict"></a>
 
 ## **Opening Issues**
