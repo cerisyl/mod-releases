@@ -15,17 +15,17 @@ Download the selected file, and unzip the contents wherever you'd like. Then, dr
 ## **File Directory**
 Click a banner to quickly download any of the packs or files listed below!
 ### **Packs**
-<a href="https://github.com/aemx/mod-releases/raw/main/packs/Aster's%20Astral%20Adventure.zip"><img width="406" src="https://raw.githubusercontent.com/aemx/cering.dev/refs/heads/main/src/img/itg/aaa.png" alt="Aster's Astral Adventure"></a>
-<a href="https://github.com/aemx/mod-releases/raw/main/packs/CERiNG.zip"><img width="406" src="https://raw.githubusercontent.com/aemx/cering.dev/refs/heads/main/src/img/itg/cering.png" alt="CERiNG"></a>
+<a href="https://github.com/cerisyl/mod-releases/raw/main/packs/Aster's%20Astral%20Adventure.zip"><img width="406" src="https://raw.githubusercontent.com/cerisyl/cering.dev/refs/heads/main/src/img/itg/aaa.png" alt="Aster's Astral Adventure"></a>
+<a href="https://github.com/cerisyl/mod-releases/raw/main/packs/CERiNG.zip"><img width="406" src="https://raw.githubusercontent.com/cerisyl/cering.dev/refs/heads/main/src/img/itg/cering.png" alt="CERiNG"></a>
 
-<a href="https://github.com/aemx/mod-releases/raw/main/packs/Misfits%20in%20the%20Prairie.zip"><img width="406" src="https://raw.githubusercontent.com/aemx/cering.dev/refs/heads/main/src/img/itg/misfits.png" alt="Misfits in the Prairie"></a>
-<a href="https://github.com/aemx/mod-releases/raw/main/packs/NJSRT1.zip"><img width="406" src="https://raw.githubusercontent.com/aemx/cering.dev/refs/heads/main/src/img/itg/njsrt.png" alt="NJSRT1: Ghost in the Machine"></a>
+<a href="https://github.com/cerisyl/mod-releases/raw/main/packs/Misfits%20in%20the%20Prairie.zip"><img width="406" src="https://raw.githubusercontent.com/cerisyl/cering.dev/refs/heads/main/src/img/itg/misfits.png" alt="Misfits in the Prairie"></a>
+<a href="https://github.com/cerisyl/mod-releases/raw/main/packs/NJSRT1.zip"><img width="406" src="https://raw.githubusercontent.com/cerisyl/cering.dev/refs/heads/main/src/img/itg/njsrt.png" alt="NJSRT1: Ghost in the Machine"></a>
 
 ### **Standalone Files**
 *NOTE: All files found in this list can be found in the CERiNG pack.*
 
-<a href="https://github.com/aemx/mod-releases/raw/main/standalone/deadheat.zip"><img width="270" src="https://i.imgur.com/MWS0QT2.png" alt="Dead Heat"></a>
-<a href="https://github.com/aemx/mod-releases/raw/main/standalone/conflict.zip"><img width="270" src="https://i.imgur.com/OyiYtYK.png" alt="conflict"></a>
+<a href="https://github.com/cerisyl/mod-releases/raw/main/standalone/deadheat.zip"><img width="270" src="https://i.imgur.com/MWS0QT2.png" alt="Dead Heat"></a>
+<a href="https://github.com/cerisyl/mod-releases/raw/main/standalone/conflict.zip"><img width="270" src="https://i.imgur.com/OyiYtYK.png" alt="conflict"></a>
 
 ## **Opening Issues**
-To request a bugfix or change within a file, please [open an issue](https://github.com/aemx/mod-releases/issues/new). I'll do my best to fix them whenever possible! There is an appropriate tag for each pack, so please use them appropriately along with the other tags! You are also welcome to message me on [Discord](https://discord.com/) at **CERiNG#0282** to discuss the issues with me in further detail, or if you have any questions regarding this repository.
+To request a bugfix or change within a file, please [open an issue](https://github.com/cerisyl/mod-releases/issues/new). I'll do my best to fix them whenever possible! There is an appropriate tag for each pack, so please use them appropriately along with the other tags! You are also welcome to message me on [Discord](https://discord.com/) at **CERiNG#0282** to discuss the issues with me in further detail, or if you have any questions regarding this repository.
